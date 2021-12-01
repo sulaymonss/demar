@@ -1,0 +1,32 @@
+.modal_btn{
+    position: fixed;
+    bottom: 3vh;
+    right: 3vh;
+    z-index: 4;
+    color: #fff;
+    background-color: rgb(120, 146, 231);
+    border: none;
+    border-radius: 50%;
+    font-size: 30px;
+    padding: 5px 14px;
+}
+
+.link{
+    font-size: 40px;
+    color: rgb(0, 132, 255);
+}
+
+.close_modal{
+    border: none;
+    background-color: transparent;
+    font-size: 35px;
+}
+
+.phone_number{
+    font-weight: bold;
+    text-decoration: none;
+}
+
+.phone_number:hover{
+    color: #fff !important;
+}
